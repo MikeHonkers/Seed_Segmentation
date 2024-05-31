@@ -1,0 +1,20 @@
+
+path: ../yolo_data
+train: images/train
+val: images/val  
+test: images/test 
+
+# Classes
+names:
+  0: color_checker
+  1: Acroptilon_repens
+  2: Ambrosia_artemisiifolia
+  3: Ambrosia_tridia
+  4: Convolvulus_arvenis
+  5: Delphinium consolida
+  6: Galium_aparine
+  7: Onopordum_acanthium
+  8: Polygonum_convolvulus
+  9: Silene_latifolia
+  10: Sinapsis_arvenis
+  11: Turgenia_latifolia
