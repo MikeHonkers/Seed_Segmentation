@@ -1,15 +1,12 @@
-
-path: ../yolo_data
-train: images/train
-val: images/val  
-test: images/test 
-
-# Classes
+path: /home/mpavlov/YOLO/images/
+train: train
+val: valid
+test: test
 names:
-  0: color_checker
-  1: Acroptilon_repens
-  2: Ambrosia_artemisiifolia
-  3: Ambrosia_tridia
+  0: Acroptilon repens
+  1: Ambrosia_artemisiifolia
+  2: Ambrosia_tridia
+  3: color_checker
   4: Convolvulus_arvenis
   5: Delphinium consolida
   6: Galium_aparine
